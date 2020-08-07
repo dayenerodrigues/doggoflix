@@ -1,0 +1,22 @@
+{
+    "categorias": [
+        {
+            "id": 1,    
+            "nome" : "Animadores de festa",
+            "descricao" : "Pra que homem-aranha dando cambalhota quando se tem essas figuras?",
+            "color" : "#43d9bb"
+        },
+        {    
+            "id": 2,
+            "nome" : "Itimalias",
+            "descricao" : "O mais fofos do universo",
+            "color" : "#ed7792"
+        },
+        {    
+            "id": 3,
+            "nome" : "Awwwnn...?",
+            "descricao" : "É fofo mas.. não sei, to confuso",
+            "color" : "#d28eed"
+        }
+    ]
+}
