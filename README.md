@@ -7,7 +7,7 @@
   <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
 </p>
 
-> Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/) com intuito de criar uma aplicação similar à Netflix!
+Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/) com intuito de criar uma aplicação similar à Netflix!
 Nesse caso, fiz um Doggoflix, uma página com os melhores videos de cachorro :dog:
 
 Dados disponíveis em: https://doggoflix.herokuapp.com/categorias
